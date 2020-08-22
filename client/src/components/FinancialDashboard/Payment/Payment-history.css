@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.background {
+    background-image: url('../../Form/photos/background1.jpg');
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.payment-container {
+    position:relative;
+    left:300px;
+    top:30px;
+    width:700px;
+}
+
+.form-card {
+    background-color: white;
+    position:relative;
+    padding: 0px;
+    width: 70%;
+}
+
+.return-btn {
+    background-color: white;
+}
+
+.center-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-header {
+    background-color:#17a2b7;
+    border: 1px solid #252e36;
+}
+
+.nav {
+    background-color: #17a2b7;
+}
+
+.cell {
+    border: 1px solid #252e36;
+    text-align: left;
+}
+
+.table-container {
+    padding: 0%;
+}
+
+.table {
+    table-layout: auto;
+    width: 100%;
+}
+
+.row-background {
+    background-color: rgb(247, 230, 204);
+}
+
+.logoText, .logoText:hover{
+    color: antiquewhite;
+    font-size: x-large;
+    font-family: 
+    'Poppins', sans-serif;
+}
+.alt-navbar{
+    display:flex;
+    background-color:#17a2b7;
+    height:70px;
+    position:relative;
+    padding:20px;
+}
+.alt-lnk1{
+   color:white;
+   position:relative;
+   left:20px;
+}
+.alt-lnk2{
+    color:white;
+    position:relative;
+    left:40px;
+ }
+ .alt-lnk3{
+    color:white;
+    position:relative;
+    left:60px;
+ }
+
+.tab {
+    font-size: large;
+}
+
+.tab:hover {
+    font-size: x-large;
+}

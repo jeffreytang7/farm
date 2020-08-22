@@ -1,0 +1,49 @@
+.background {
+    background-image: url('../../Form/photos/background1.jpg');
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.accountInfo-container {
+    position:relative;
+    left:400px;
+    top:40px;
+    width:500px;
+}
+
+.form-card {
+    padding: 40px;
+    width: 100%;
+}
+
+.return-btn {
+}
+
+.center-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tab {
+    font-size: large;
+}
+
+.tab:hover {
+    font-size: x-large;
+}
+
+.alt-AInavbar{
+    display:flex;
+    background-color:#17a2b7;
+    height:70px;
+    position:relative;
+    padding:20px;
+}
+.modal-background {
+}

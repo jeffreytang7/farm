@@ -1,0 +1,63 @@
+.form-card {
+    background-color: beige;
+    padding: 30px;
+    width: 100%;
+}
+
+.form-group {
+    position: relative;
+    padding: 3%;
+}
+
+.bottom-row {
+    display: flex;
+    padding-top: 20px;
+}
+
+.btn{
+    flex-grow: 1;
+    text-align: center;
+    width: 100%;
+}
+
+.sign-in-btn {
+   background-color: rgb(51, 173, 137);
+}
+
+.sign-in-btn:hover {
+    background-color: rgb(44, 121, 98);
+}
+
+.create-acc-btn {
+    background-color: rgb(51, 173, 137);
+}
+
+.create-acc-btn:hover {
+    background-color: rgb(44, 121, 98);
+ }
+
+.background {
+    background-image: url('../photos/background4.jpeg');
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-size: cover;
+}
+
+.container {
+    padding: 8%;
+}
+
+.password-label{
+    color: rgb(110, 89, 19);
+    font-style: italic;
+}
+
+.input-styles{
+    font-style: italic;
+    font-size: smaller;
+}
+
+.error-msg {
+    background-color: rgb(151, 61, 61);
+}

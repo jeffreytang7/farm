@@ -1,0 +1,44 @@
+.background {
+    background-image: url('../../Form/photos/background1.jpg');
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.Inputwages-container {
+    position:relative;
+    left:250px;
+    top:40px;
+    width:800px;
+}
+.alt-msg{
+    position:relative;
+    top:15px;
+    left:250px;
+}
+.alt-submt{
+    position:relative;
+    top:10px;
+}
+
+.form-card {
+    background-color: rgb(245, 230, 182);
+    width: 100%;
+}
+.alt-h4{
+    position:relative;
+    top:0px;
+    left:40px;
+}
+
+.tab {
+    font-size: large;
+}
+
+.tab:hover {
+    font-size: x-large;
+}

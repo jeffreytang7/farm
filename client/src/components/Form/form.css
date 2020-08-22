@@ -1,0 +1,13 @@
+#login .container #login-row #login-column #login-box #login-form {
+  position: relative;
+    padding: 3%;
+}
+
+#login-column {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: beige;
+  padding: 30px;
+  width: 100%;
+}
+

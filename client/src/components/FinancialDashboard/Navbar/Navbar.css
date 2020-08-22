@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.navbar, .navbar-expand-lg, .navbar-light{
+    background-color: rgb(104, 126, 31);
+    color: antiquewhite;
+}
+
+.navbar-brand{
+    color: antiquewhite !important;
+    font-size: xx-large;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item{
+    color: antiquewhite !important;
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+}
